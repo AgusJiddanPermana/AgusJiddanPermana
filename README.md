@@ -33,8 +33,8 @@ A passionate **Software Engineering Student** focused on Web & Desktop Developme
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgusJiddanPermana&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusJiddanPermana&layout=compact&theme=dark&hide_border=true" height="150" alt="languages card" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AgusJiddanPermana&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats card" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AgusJiddanPermana&layout=compact&theme=dark&hide_border=true" height="150" alt="languages card" />
 </div>
 
 ---
