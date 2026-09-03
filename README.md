@@ -6,7 +6,7 @@ A passionate **Software Engineering Student** focused on Web & Desktop Developme
 
 ### 🚀 About Me
 - 🎓 Studying **Software Engineering (RPL)**
-- 💻 Tech Stack: **PHP (Laravel), JavaScript, HTML/CSS, C#**
+- 💻 Tech Stack: **PHP (Laravel), JavaScript, HTML/CSS, C#, React**
 - 🛡️ Currently learning: **Cybersecurity & Networking**
 - 🎯 Goals: Building full-stack web applications & preparing for higher education / tech industry
 
